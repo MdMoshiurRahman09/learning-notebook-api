@@ -43,6 +43,36 @@ notes =[
         "js_equivalent":"function",  
         "tags":["python", "basics"],
         "learned":False,
+    },
+    
+    {
+        "id": 5, 
+        "term":"f-string",
+        "definition":"A formatted string literal that allows you to insert variables and expressions directly into a string using curly braces {}.",
+
+        "js_equivalent":"Template literals",  
+        "tags":["python", "string", "formatting"],
+        "learned":True,
+    },
+    
+    {
+        "id": 6, 
+        "term":"indentation",
+        "definition":"The spaces at the beginning of a line of code that define a block of code in Python.",
+
+        "js_equivalent":"Braces {} for code blocks",  
+        "tags":["python", "basics"],
+        "learned":False,
+    },
+    
+    {
+        "id": 7, 
+        "term":"pydentic",
+        "definition":"A Python library used for data validation and parsing based on type hints.",
+
+        "js_equivalent":"zod",  
+        "tags":["python", "data-validation", "library"],
+        "learned":False,
     }
 ]
 
